@@ -28,7 +28,7 @@
 {"number":"20","name":"KFM","description":"","logo":"/kfm.png","streamUrl":"http://81.199.17.49:8000/stream.m3u","yourmuzeId":"0","state":"1"}, 	
 {"number":"21","name":"Kwemala Radio","description":"","logo":"/kwemala.png","streamUrl":"http://www.streamcontrol.net:10010/stream/1/","yourmuzeId":"0","state":"1"}, 	
 {"number":"22","name":"Radio Lead Africa","description":"","logo":"/lead-africa.png","streamUrl":"https://playerservices.streamtheworld.com/pls/SAM04AAC177.pls","yourmuzeId":"0","state":"1"}, 	
-{"number":"23","name":"Radio Maria","description":"","logo":"/maria-101-8.png","streamUrl":"http://dreamsiteradiocp.com:8052/stream/1/","yourmuzeId":"0","state":"1"}, 	
+{"number":"23","name":"Radio Maria","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Radio%20Maria.png","streamUrl":"http://dreamsiteradiocp.com:8052/stream/1/","yourmuzeId":"0","state":"1"}, 	
 {"number":"24","name":"MCF Radio","description":"","logo":"/mcf.png","streamUrl":"http://shaincast.caster.fm:34901/listen.mp3?authn646b214ed403dd1c785e4c2be87f20e0","yourmuzeId":"0","state":"1"}, 	
 {"number":"25","name":"Mega FM","description":"","logo":"/mega.png","streamUrl":"http://79.143.187.96:8004/listen.pls","yourmuzeId":"0","state":"1"}, 	
 {"number":"26","name":"Next Radio","description":"","logo":"/next106.png","streamUrl":"https://streams.radio.co/see104bedb/listen","yourmuzeId":"0","state":"1"}, 	
