@@ -22,7 +22,7 @@
 {"number":"14","name":"Connect Uganda Radio","description":"","logo":"/connect-kampala.png","streamUrl":"https://www.connectuganda.com/connect-live","yourmuzeId":"0","state":"1"}, 	
 {"number":"15","name":"EJazz Radio","description":"","logo":"/ejazz.png","streamUrl":"http://5.63.151.52:7182/listen.pls?sid=1","yourmuzeId":"0","state":"1"}, 	
 {"number":"16","name":"Etop FM","description":"","logo":"/etop-fm-99-4.png","streamUrl":"http://listen1.mixlr.com/3e3b13fdc90a97756e7f38cfb60c93c2","yourmuzeId":"0","state":"1"}, 	
-{"number":"17","name":"Freedom Experience Radio","description":"","logo":"/freedom-experience.png","streamUrl":"https://stream.radiojar.com/9wzyuh8svmzuv","yourmuzeId":"0","state":"1"}, 	
+{"number":"17","name":"Freedom Experience Radio","description":"","logo":"/freedom-experience.png","streamUrl":"http://n04.radiojar.com/9wzyuh8svmzuv?rj-ttl=5&rj-tok=AAABcQDMnMoA91fIHXFR0n3r-g","yourmuzeId":"0","state":"1"}, 	
 {"number":"18","name":"Hot100","description":"","logo":"/hot100.png","streamUrl":"http://www.hot100.ug:8000/stream","yourmuzeId":"0","state":"1"}, 	
 {"number":"19","name":"Impact FM (Kampala Uganda)","description":"","logo":"/impact-fm-kampala-uganda.png","streamUrl":"http://128.199.114.2:8080/hls/stream.m3u8","yourmuzeId":"0","state":"1"}, 	
 {"number":"20","name":"KFM","description":"","logo":"/kfm.png","streamUrl":"http://81.199.17.49:8000/stream.m3u","yourmuzeId":"0","state":"1"}, 	
