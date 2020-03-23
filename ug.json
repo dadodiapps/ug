@@ -43,7 +43,7 @@
 {"number":"35","name":"Spirit","description":"","logo":"/spirit.png","streamUrl":"http://216.104.207.60:89/broadwave.mp3?src=1&rate=1","yourmuzeId":"0","state":"1"}, 	
 {"number":"36","name":"Radio West","description":"","logo":"/west.png","streamUrl":"http://listen1.mixlr.com/8bd15888255cf872480cb53e53816516","yourmuzeId":"0","state":"1"}, 	
 {"number":"37","name":"XFM","description":"","logo":"/xfm.png","streamUrl":"http://radio.visiongroup.co.ug:8000/xfm","yourmuzeId":"0","state":"1"}, 	
-{"number":"38","name":"Xpozed Radio","description":"","logo":"/xpozed.png","streamUrl":"https://s3.radio.co/sd44713d30/listen","yourmuzeId":"0","state":"1"}, 	
+{"number":"38","name":"Xpozed Radio","description":"","logo":"/xpozed.png","streamUrl":"https://s3.radio.co/sd44713d30/listen","yourmuzeId":"0","state":"2"}, 	
 {"number":"39","name":"Yofochm Radio","description":"","logo":"/yofochm.png","streamUrl":"http://s5.radioboss.fm:8347/stream/1/","yourmuzeId":"0","state":"1"},
 	
 	
