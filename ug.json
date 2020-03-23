@@ -69,10 +69,17 @@
 {"number":"58","name":"Imbaraga radio","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Imbaraga%20radio.jpg","streamUrl":"http://37.187.174.88:8025/stream","yourmuzeId":"0","state":"1"},	
 {"number":"59","name":"Bob fm","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Bob%20fm.jpg","streamUrl":"http://216.104.207.60:88/broadwave.mp3?src=1&rate=1","yourmuzeId":"0","state":"1"},	
 {"number":"60","name":"Digida 106.5 fm","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Digida%20106.5.jpg","streamUrl":"http://66.55.145.43:7383/stream","yourmuzeId":"0","state":"1"},	
-{"number":"61","name":"ACTS Radio","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/ACTS%20Radio.png","streamUrl":"http://c14.radioboss.fm:8150/stream","yourmuzeId":"0","state":"1"}	
+{"number":"61","name":"UGSOUND uganda","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/ACTS%20Radio.png","streamUrl":"https://streaming.liveonline.radio/ugsound-online-radio","yourmuzeId":"0","state":"1"}	
+{"number":"62","name":"Christ FM 91.6","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Christ%20FM.png","streamUrl":"http://5.135.154.69/15664/;","yourmuzeId":"0","state":"1"},	
+{"number":"63","name":"Christ FM 91.6","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Christ%20FM.png","streamUrl":"http://5.135.154.69/15664/;","yourmuzeId":"0","state":"1"},	
+{"number":"64","name":"Christ FM 91.6","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Christ%20FM.png","streamUrl":"http://5.135.154.69/15664/;","yourmuzeId":"0","state":"1"},	
+{"number":"65","name":"Christ FM 91.6","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Christ%20FM.png","streamUrl":"http://5.135.154.69/15664/;","yourmuzeId":"0","state":"1"},
+{"number":"66","name":"Christ FM 91.6","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Christ%20FM.png","streamUrl":"http://5.135.154.69/15664/;","yourmuzeId":"0","state":"1"},	
+{"number":"67","name":"Christ FM 91.6","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Christ%20FM.png","streamUrl":"http://5.135.154.69/15664/;","yourmuzeId":"0","state":"1"},	
+{"number":"68","name":"Christ FM 91.6","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Christ%20FM.png","streamUrl":"http://5.135.154.69/15664/;","yourmuzeId":"0","state":"1"},	
+{"number":"69","name":"Christ FM 91.6","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Christ%20FM.png","streamUrl":"http://5.135.154.69/15664/;","yourmuzeId":"0","state":"1"},
 	
 	
 	
-	 
  ]
 ,"country":{"id":"1","name":"uganda","logo":"../../_upload/_flags/uganda.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
