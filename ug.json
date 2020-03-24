@@ -20,7 +20,7 @@
 {"number":"12","name":"Radio CBS (Buganda)","description":"","logo":"/cbs-buganda.png","streamUrl":"http://41.202.239.38:88/broadwave.mp3?src=3&rate=1&ref=","yourmuzeId":"0","state":"1"}, 	
 {"number":"13","name":"CBS Radio (Buganda)","description":"","logo":"/cbs-buganda-fm.png","streamUrl":"http://41.202.239.38:88/broadwavehigh.mp3","yourmuzeId":"0","state":"1"}, 	
 {"number":"14","name":"Connect Uganda Radio","description":"","logo":"/connect-kampala.png","streamUrl":"https://www.connectuganda.com/connect-live","yourmuzeId":"0","state":"1"}, 	
-  	
+{"number":"15","name":"Yofochm Radio","description":"","logo":"/yofochm.png","streamUrl":"http://s5.radioboss.fm:8347/stream/1/","yourmuzeId":"0","state":"1"},  	
 {"number":"16","name":"Etop FM","description":"","logo":"/etop-fm-99-4.png","streamUrl":"http://listen1.mixlr.com/3e3b13fdc90a97756e7f38cfb60c93c2","yourmuzeId":"0","state":"2"}, 	
 {"number":"17","name":"Freedom Experience Radio","description":"","logo":"/freedom-experience.png","streamUrl":"http://n04.radiojar.com/9wzyuh8svmzuv?rj-ttl=5&rj-tok=AAABcQDMnMoA91fIHXFR0n3r-g","yourmuzeId":"0","state":"1"}, 	
 {"number":"18","name":"Hot100","description":"","logo":"/hot100.png","streamUrl":"http://www.hot100.ug:8000/stream","yourmuzeId":"0","state":"1"}, 	
@@ -44,10 +44,10 @@
 {"number":"36","name":"Radio West","description":"","logo":"/west.png","streamUrl":"http://listen1.mixlr.com/8bd15888255cf872480cb53e53816516","yourmuzeId":"0","state":"2"}, 	
 {"number":"37","name":"XFM","description":"","logo":"/xfm.png","streamUrl":"http://radio.visiongroup.co.ug:8000/xfm","yourmuzeId":"0","state":"1"}, 	
 {"number":"38","name":"Xpozed Radio","description":"","logo":"/xpozed.png","streamUrl":"https://s3.radio.co/sd44713d30/listen","yourmuzeId":"0","state":"2"}, 	
-{"number":"39","name":"Yofochm Radio","description":"","logo":"/yofochm.png","streamUrl":"http://s5.radioboss.fm:8347/stream/1/","yourmuzeId":"0","state":"1"},
+
 	
 	
-	
+{"number":"39","name":"AfroBeats FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/AfroBeats.jpg","streamUrl":"http://151.80.155.174:8000/;","yourmuzeId":"0","state":"1"},	
 {"number":"40","name":"Gospel Radio","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Gospel%20Radio.jpg","streamUrl":"http://eu4.radioboss.fm:8112/stream","yourmuzeId":"0","state":"1"},	
 {"number":"41","name":"STEP FM 99.8","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/STEP%20FM.png","streamUrl":"http://whsh4u-clients.com:9359/stream","yourmuzeId":"0","state":"1"},	
 {"number":"42","name":"Joy FM 104.5","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Joy%20FM.png","streamUrl":"http://s6.myradiostream.com:43884/;","yourmuzeId":"0","state":"1"}, 	
@@ -83,8 +83,8 @@
 {"number":"72","name":"OPEN GATE FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/OPEN%20GATE.jpg","streamUrl":"http://stream.ykbhost.com:8000/;","yourmuzeId":"0","state":"1"},
 {"number":"73","name":"CHAIN RAP RADIO AFRICA","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/CHAIN%20RAP.jpg","streamUrl":"http://streaming.radionomy.com/JamendoLounge?lang=fr-FR%2cfr%3bq%3d0.9%2cen-US%3bq%3d0.8%2cen%3bq%3d0.7","yourmuzeId":"0","state":"1"},	
 {"number":"74","name":"ENDIGYITO FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/ENDIGYITO.jpg","streamUrl":"http://shaincast.caster.fm/get_podcast.php?username=endigyito&filename=endigyito-1579678876.mp3&auth=pdauthneb45d70137ef7c137db432b40c931b79&dl=true","yourmuzeId":"0","state":"1"},
-{"number":"75","name":"Kairos Broadcasting Services (KBS)","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Kairos%20Broadcasting%20Services%20(KBS).jpg","streamUrl":"http://eu4.radioboss.fm:8027/stream/;","yourmuzeId":"0","state":"1"}, 	
-{"number":"76","name":"AfroBeats FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Kairos%20Broadcasting%20Services%20(KBS).jpg","streamUrl":"http://151.80.155.174:8000/;","yourmuzeId":"0","state":"1"} 	
+{"number":"75","name":"Kairos Broadcasting Services (KBS)","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Kairos%20Broadcasting%20Services%20(KBS).jpg","streamUrl":"http://eu4.radioboss.fm:8027/stream/;","yourmuzeId":"0","state":"1"}  	
+ 	
 	
 	
 	
