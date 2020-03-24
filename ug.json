@@ -20,14 +20,14 @@
 {"number":"12","name":"Radio CBS (Buganda)","description":"","logo":"/cbs-buganda.png","streamUrl":"http://41.202.239.38:88/broadwave.mp3?src=3&rate=1&ref=","yourmuzeId":"0","state":"1"}, 	
 {"number":"13","name":"CBS Radio (Buganda)","description":"","logo":"/cbs-buganda-fm.png","streamUrl":"http://41.202.239.38:88/broadwavehigh.mp3","yourmuzeId":"0","state":"1"}, 	
 {"number":"14","name":"Connect Uganda Radio","description":"","logo":"/connect-kampala.png","streamUrl":"https://www.connectuganda.com/connect-live","yourmuzeId":"0","state":"1"}, 	
-{"number":"15","name":"EJazz Radio","description":"","logo":"/ejazz.png","streamUrl":"http://5.63.151.52:7182/listen.pls?sid=1","yourmuzeId":"0","state":"1"}, 	
-{"number":"16","name":"Etop FM","description":"","logo":"/etop-fm-99-4.png","streamUrl":"http://listen1.mixlr.com/3e3b13fdc90a97756e7f38cfb60c93c2","yourmuzeId":"0","state":"1"}, 	
+  	
+{"number":"16","name":"Etop FM","description":"","logo":"/etop-fm-99-4.png","streamUrl":"http://listen1.mixlr.com/3e3b13fdc90a97756e7f38cfb60c93c2","yourmuzeId":"0","state":"2"}, 	
 {"number":"17","name":"Freedom Experience Radio","description":"","logo":"/freedom-experience.png","streamUrl":"http://n04.radiojar.com/9wzyuh8svmzuv?rj-ttl=5&rj-tok=AAABcQDMnMoA91fIHXFR0n3r-g","yourmuzeId":"0","state":"1"}, 	
 {"number":"18","name":"Hot100","description":"","logo":"/hot100.png","streamUrl":"http://www.hot100.ug:8000/stream","yourmuzeId":"0","state":"1"}, 	
 {"number":"19","name":"Impact FM (Kampala Uganda)","description":"","logo":"/impact-fm-kampala-uganda.png","streamUrl":"http://207.154.241.5:8080/hls/stream.m3u8","yourmuzeId":"0","state":"1"}, 	
 {"number":"20","name":"KFM","description":"","logo":"/kfm.png","streamUrl":"http://81.199.17.49:8000/stream","yourmuzeId":"0","state":"1"}, 	
 {"number":"21","name":"Kwemala Radio","description":"","logo":"/kwemala.png","streamUrl":"http://www.streamcontrol.net:10010/stream/1/","yourmuzeId":"0","state":"1"}, 	
-{"number":"22","name":"Radio Lead Africa","description":"","logo":"/lead-africa.png","streamUrl":"https://playerservices.streamtheworld.com/pls/SAM04AAC177.pls","yourmuzeId":"0","state":"1"}, 	
+{"number":"22","name":"Radio Lead Africa","description":"","logo":"/lead-africa.png","streamUrl":"https://playerservices.streamtheworld.com/pls/SAM04AAC177.pls","yourmuzeId":"0","state":"2"}, 	
 {"number":"23","name":"Radio Maria","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Radio%20Maria.png","streamUrl":"http://dreamsiteradiocp.com:8052/stream/1/","yourmuzeId":"0","state":"1"}, 	
 {"number":"24","name":"MCF Radio","description":"","logo":"/mcf.png","streamUrl":"http://shaincast.caster.fm:34901/listen.mp3?authn646b214ed403dd1c785e4c2be87f20e0","yourmuzeId":"0","state":"2"}, 	
 {"number":"25","name":"Mega FM","description":"","logo":"/mega.png","streamUrl":"http://79.143.187.96:8004/;","yourmuzeId":"0","state":"1"}, 	
@@ -37,11 +37,11 @@
 {"number":"29","name":"Pearl Radio","description":"","logo":"/pearl-107-9.png","streamUrl":"http://66.55.145.43:7404/stream/1/","yourmuzeId":"0","state":"1"}, 	
 {"number":"30","name":"Power FM","description":"","logo":"/power-fm.png","streamUrl":"http://87.98.219.178:8452/stream/1/","yourmuzeId":"0","state":"1"}, 	
 {"number":"31","name":"Radiocity","description":"","logo":"/radiocity.png","streamUrl":"http://162.244.80.106:10853/stream/1/","yourmuzeId":"0","state":"1"}, 	
-{"number":"32","name":"Sanyu FM","description":"","logo":"/sanyu.png","streamUrl":"http://s44.myradiostream.com:8138/stream/1/","yourmuzeId":"0","state":"1"}, 	
+{"number":"32","name":"Sanyu FM","description":"","logo":"/sanyu.png","streamUrl":"http://s44.myradiostream.com:8138/stream/1/","yourmuzeId":"0","state":"2"}, 	
 {"number":"33","name":"Radio Sapientia","description":"","logo":"/sapientia.png","streamUrl":"https://www.radiosapientia.com/live","yourmuzeId":"0","state":"1"}, 	
 {"number":"34","name":"Radio Simba","description":"","logo":"/simba.png","streamUrl":"http://www.radiosimba.ug:8000/stream","yourmuzeId":"0","state":"1"}, 	
 {"number":"35","name":"Spirit","description":"","logo":"/spirit.png","streamUrl":"http://216.104.207.60:89/broadwave.mp3?src=1&rate=1","yourmuzeId":"0","state":"1"}, 	
-{"number":"36","name":"Radio West","description":"","logo":"/west.png","streamUrl":"http://listen1.mixlr.com/8bd15888255cf872480cb53e53816516","yourmuzeId":"0","state":"1"}, 	
+{"number":"36","name":"Radio West","description":"","logo":"/west.png","streamUrl":"http://listen1.mixlr.com/8bd15888255cf872480cb53e53816516","yourmuzeId":"0","state":"2"}, 	
 {"number":"37","name":"XFM","description":"","logo":"/xfm.png","streamUrl":"http://radio.visiongroup.co.ug:8000/xfm","yourmuzeId":"0","state":"1"}, 	
 {"number":"38","name":"Xpozed Radio","description":"","logo":"/xpozed.png","streamUrl":"https://s3.radio.co/sd44713d30/listen","yourmuzeId":"0","state":"2"}, 	
 {"number":"39","name":"Yofochm Radio","description":"","logo":"/yofochm.png","streamUrl":"http://s5.radioboss.fm:8347/stream/1/","yourmuzeId":"0","state":"1"},
@@ -64,7 +64,7 @@
 {"number":"53","name":"GMI Radio","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/GMI%20Radio.png","streamUrl":"http://node-16.zeno.fm/0nrtdf5banzuv?rj-ttl=5&rj-tok=AAABcQF6UUgAxD8T-7IpiGgmaA","yourmuzeId":"0","state":"1"},	
 {"number":"54","name":"CityFM 96","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/CityFM.png","streamUrl":"http://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC085_SC?dist=onlineradiobox","yourmuzeId":"0","state":"1"}, 
 {"number":"55","name":"107.0 SALT FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/SALT%20FM.png","streamUrl":"http://uk6.internet-radio.com:8358/live","yourmuzeId":"0","state":"1"},	
-{"number":"56","name":"Metro FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Metro%20FM.png","streamUrl":"http://66.55.145.43:7757/stream","yourmuzeId":"0","state":"1"},	
+{"number":"56","name":"Metro FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Metro%20FM.png","streamUrl":"http://66.55.145.43:7757/stream","yourmuzeId":"0","state":"2"},	
 {"number":"57","name":"Glorious Radio","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Glorious%20Radio.jpg","streamUrl":"http://37.187.174.88:8025/stream","yourmuzeId":"0","state":"1"},	
 {"number":"58","name":"Imbaraga radio","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Imbaraga%20radio.jpg","streamUrl":"http://37.187.174.88:8025/stream","yourmuzeId":"0","state":"1"},	
 {"number":"59","name":"Bob fm","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Bob%20fm.jpg","streamUrl":"http://216.104.207.60:88/broadwave.mp3?src=1&rate=1","yourmuzeId":"0","state":"1"},	
@@ -73,8 +73,8 @@
 {"number":"62","name":"Buddu Fm","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Buddu%20Fm.png","streamUrl":"http://66.55.145.43:7344/stream;","yourmuzeId":"0","state":"1"},	
 {"number":"63","name":"Radio Munansi","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Radio%20Munansi.png","streamUrl":"http://199.180.75.58:9001/;","yourmuzeId":"0","state":"1"},	
 {"number":"64","name":"Wink fm uganda","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/Wink%20fm.jpg","streamUrl":"http://np.techsysug.com:8004/;","yourmuzeId":"0","state":"1"},	
-{"number":"65","name":"SPICE FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/SPICE%20FM.jpg","streamUrl":"http://66.55.145.43:7554/stream","yourmuzeId":"0","state":"1"},
-{"number":"66","name":"UBC MAGIC 100 FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/UBC%20MAGIC.png","streamUrl":"http://196.0.39.57:8000/magic100FM","yourmuzeId":"0","state":"1"},	
+{"number":"65","name":"SPICE FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/SPICE%20FM.jpg","streamUrl":"http://66.55.145.43:7554/stream","yourmuzeId":"0","state":"2"},
+{"number":"66","name":"UBC MAGIC 100 FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/UBC%20MAGIC.png","streamUrl":"http://196.0.39.57:8000/magic100FM","yourmuzeId":"0","state":"2"},	
 {"number":"67","name":"STAR FM 87.5","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/STAR%20FM.jpg","streamUrl":"http://196.0.39.57:8000/star87.5FM","yourmuzeId":"0","state":"1"},	
 {"number":"68","name":"J A RADIO","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/J%20A%20RADIO.jpg","streamUrl":"https://streaming.liveonline.radio/j-a-radio","yourmuzeId":"0","state":"2"},	
 {"number":"69","name":"KKCR 91.7FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/KKCR.jpg","streamUrl":"http://23.254.136.47:9974/;","yourmuzeId":"0","state":"1"}, 
@@ -83,12 +83,8 @@
 {"number":"72","name":"OPEN GATE FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/OPEN%20GATE.jpg","streamUrl":"http://stream.ykbhost.com:8000/;","yourmuzeId":"0","state":"1"},
 {"number":"73","name":"CHAIN RAP RADIO AFRICA","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/CHAIN%20RAP.jpg","streamUrl":"http://streaming.radionomy.com/JamendoLounge?lang=fr-FR%2cfr%3bq%3d0.9%2cen-US%3bq%3d0.8%2cen%3bq%3d0.7","yourmuzeId":"0","state":"1"},	
 {"number":"74","name":"ENDIGYITO FM","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/ENDIGYITO.jpg","streamUrl":"http://shaincast.caster.fm/get_podcast.php?username=endigyito&filename=endigyito-1579678876.mp3&auth=pdauthneb45d70137ef7c137db432b40c931b79&dl=true","yourmuzeId":"0","state":"1"},
-{"number":"75","name":"ACHOLILAND RADIO","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/ACHOLILAND%20RADIO.jpg","streamUrl":"http://185.80.220.12/stream/mschon03.pls?mp=/stream","yourmuzeId":"0","state":"2"},	
-{"number":"76","name":"91.2 Crooze FM","description":"","logo":"/91-2-crooze-fm.png","streamUrl":"http://mp.techsysug.com:8018/listen.pls?sid=1","yourmuzeId":"0","state":"1"},	
-{"number":"77","name":"91.2 Crooze FM","description":"","logo":"/91-2-crooze-fm.png","streamUrl":"http://mp.techsysug.com:8018/listen.pls?sid=1","yourmuzeId":"0","state":"1"},	
-{"number":"78","name":"91.2 Crooze FM","description":"","logo":"/91-2-crooze-fm.png","streamUrl":"http://mp.techsysug.com:8018/listen.pls?sid=1","yourmuzeId":"0","state":"1"},	
-{"number":"79","name":"91.2 Crooze FM","description":"","logo":"/91-2-crooze-fm.png","streamUrl":"http://mp.techsysug.com:8018/listen.pls?sid=1","yourmuzeId":"0","state":"1"} 	
-	
+{"number":"75","name":"ACHOLILAND RADIO","description":"","logo":"https://raw.githubusercontent.com/tzafino/ug/master/ACHOLILAND%20RADIO.jpg","streamUrl":"http://185.80.220.12/stream/mschon03.pls?mp=/stream","yourmuzeId":"0","state":"2"} 	
+ 	
 	
 	
 	
